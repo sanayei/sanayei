@@ -11,7 +11,6 @@ Now I research that question for large language models: how to tell which model 
 ## Featured projects
 
 - **[aria](https://github.com/sanayei/aria)**: local-first agentic assistant with human approval for risky actions.
-- **[llm-preannotation-ground-truth](https://github.com/sanayei/llm-preannotation-ground-truth)**: LLM pre-annotation feeding a custom SageMaker Ground Truth labeling UI for multi-page documents, deployed with AWS CDK.
 - **[FlowForge](https://github.com/sanayei/FlowForge)**: modular, distributed document-processing pipeline on AWS SageMaker.
 - **[PyCraft](https://github.com/sanayei/PyCraft)**: core data science and ML algorithms implemented from scratch, with tests.
 
