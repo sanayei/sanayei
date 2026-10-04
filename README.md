@@ -7,7 +7,6 @@ Now I research that question for large language models: how to tell which model 
 ## Now
 
 - Researching statistically sound LLM evaluation and model selection. Papers under review.
-- Building an open-source toolkit for rigorous model comparison (coming soon).
 
 ## Featured projects
 
