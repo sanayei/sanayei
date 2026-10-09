@@ -20,4 +20,4 @@ PhD, Industrial Engineering & Operations Research (Bayesian learning) and MS, Co
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/sanayei)
+[LinkedIn](https://www.linkedin.com/in/sanayei) · [X](https://x.com/SanayeiAmir)
